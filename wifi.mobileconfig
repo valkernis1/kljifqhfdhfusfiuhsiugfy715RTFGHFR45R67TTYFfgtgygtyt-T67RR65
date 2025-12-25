@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>PayloadContent</key>
+<array>
+<dict>
+<key>PayloadType</key>
+<string>com.apple.wifi.managed</string>
+<key>PayloadVersion</key>
+<integer>1</integer>
+<key>PayloadIdentifier</key>
+<string>com.example.wifi.payload</string>
+<key>PayloadUUID</key>
+<string>F3A2C8C9-8E2A-4D3F-9F77-6B8A1C5D3E4F</string>
+<key>PayloadDisplayName</key>
+<string>Freebox Wi‑Fi</string>
+
+<key>SSID_STR</key>
+<string>Freebox-5A9EE2</string>
+
+<key>HIDDEN_NETWORK</key>
+<false/>
+
+<key>AutoJoin</key>
+<true/>
+
+<key>EncryptionType</key>
+<string>WPA2</string>
+
+<key>Password</key>
+<string>kzs3kqx25dqbx6n6q9szkc</string>
+</dict>
+</array>
+
+<key>PayloadType</key>
+<string>Configuration</string>
+<key>PayloadVersion</key>
+<integer>1</integer>
+<key>PayloadIdentifier</key>
+<string>com.example.wifiprofile</string>
+<key>PayloadUUID</key>
+<string>9D1B7C5E-4A12-4F6D-9A8B-2C5E1F3D7B8A</string>
+<key>PayloadDisplayName</key>
+<string>Freebox Wi‑Fi Profile</string>
+</dict>
+</plist>
